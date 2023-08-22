@@ -21,3 +21,7 @@ The software application must provide the ability to :
 - Easy to use Graphical User Interface (GUI).  
 
 
+## Data storage
+
+There are many possibilities on how we can store the maintenance tasks data (Archiving) which depends mainly on the cmms use case, usually for decentralised cmms it will be required to access the data from anywhere in this case an SQL DB whill be more appropeite to store and retrieve the data. For this use case  since the solution is for an industrial antity I assummed that the cmms will be used locally and without excessive costs, maining it will not be connected to any external servers other than for notification puposes, and the the data will be stored in a typical Excel worksheets in a dedicated PC workstation. 
+
