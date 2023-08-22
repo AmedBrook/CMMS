@@ -18,6 +18,6 @@ The software application must provide the ability to :
 - Maintenance KPI visualization. 
 - Password protection to access the archived data. 
 - Switching back and forth betwween different tabs. 
-- Easy to use the GUI.  
+- Easy to use Graphical User Interface (GUI).  
 
 
